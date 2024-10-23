@@ -1,7 +1,8 @@
+# Automatic Centroid Initialization in K-Means Using Artificial Hummingbird Algorithm
+This repository contains an implementation of Automatic Centroid Initialization in K-Means Using Artificial Hummingbird Algorithm using MATLAB.
 
-# Automatic centroid initialization in k-means using artificial hummingbird algorithm
-
-This repository contains an implementation of Automatic centroid initialization in k-means using artificial hummingbird algorithm using MATLAB.
+## Overview
+This work enhances the k-means clustering algorithm by introducing an efficient and automatic method for centroid initialization based on the Artificial Hummingbird Algorithm (AHA). The primary goal is to improve clustering performance and convergence speed by avoiding poor initial centroids.
 
 ## Instructions
 
@@ -20,6 +21,7 @@ This repository contains an implementation of Automatic centroid initialization 
   - `AHO_main.xlsx`: Main results including costs and intra/inter distances.
   - `AHO_convergence.xlsx`: Records best fitness over iterations.
   - `AHA_Cluster_CentreX.xlsx`: Final cluster centers.
+ 
 
 ## Requirements
 - **MATLAB Version**: MATLAB R2020b or later is recommended.
